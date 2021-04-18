@@ -6,6 +6,6 @@ I'm beginner front-end developer.
 🎯 Aiming to work on sone real projects
 
 My interests:  
-🇦🇺 Australia
-🏂 Snowboard
+🇦🇺 Australia  
+🏂 Snowboarding  
 👟 Sneakers
